@@ -5,6 +5,7 @@
 - 경력 : 22.07 ~ 23.06 : 삼성 청년 SW 아카데미
 - 스킬 : JAVA, Spring
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cyctjdghks)](https://solved.ac/cyctjdghks)
 <!--
 **cyctjdghks/cyctjdghks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
