@@ -2,9 +2,7 @@
 - 나이 : 1996.09.29
 - 이메일 : cyctjdghks@naver.com
 - 학력 : 금오공과대학교 컴퓨터공학과(15.03 ~ 22.02 졸업)
-
-- 경력
-  22.07 ~ 23.06 : 삼성 청년 SW 아카데미
+- 경력 : 22.07 ~ 23.06 : 삼성 청년 SW 아카데미
 
 <!--
 **cyctjdghks/cyctjdghks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
