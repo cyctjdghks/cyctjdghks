@@ -30,13 +30,13 @@ Back-End<br>
 Database<br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" /><br>
-CI/CD<br>
+Infra<br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white" /><br>
 <br><br><br><br>
 📖 Github Stats 📖<br>
-<img src="https://github-readme-stats.vercel.app/api?username=cyctjdghks&show_icons=true"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=cyctjdghks&show_icons=true&theme=aura"><br><br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cyctjdghks)](https://solved.ac/cyctjdghks)
 </div>
