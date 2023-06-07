@@ -2,6 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Park%20Seong-hwan&fontSize=40" /><br>
 </div>
 
+# 꾸준히 성장해 나가는 개발자 박성환입니다.
+
 - 이름 : 박성환(Park Seong Hwan)
 - 나이 : 1996.09.29
 - 이메일 : cyctjdghks@naver.com
