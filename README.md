@@ -11,6 +11,7 @@
 - 2015.03 ~ 2022.08    금오공과대학교 컴퓨터공학과 졸업
 - 2016.05 ~ 2018.02    육군 만기제대
 - 2022.07 ~ 2023.06    삼성 청년 SW 아카데미 8기 수료
+- 2023.07 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inzisoft 재직 중
 <br><br>
 
 <div align="center">
